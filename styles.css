@@ -1,3 +1,5 @@
-#myH1 {
-    background-color: blue;
+#myHeader {
+    text-align: center;
+    font-family: sans-serif, arial;
+    font-size: 20;
 }
