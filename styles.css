@@ -1,7 +1,12 @@
-.myNav {
+.myHeader {
     background-color: #FCF9F3;
 }
 
 .headingTitle {
     color: #6E1F2A;
+}
+
+.Frenchwebsitelogo {
+    width: 3rem;
+    height: auto;
 }
