@@ -1,5 +1,7 @@
-#myHeader {
-    text-align: center;
-    font-family: sans-serif, arial;
-    font-size: 3rem;
+#myNav {
+    background-color: #FCF9F3;
+}
+
+.headingTitle {
+    color: #6E1F2A;
 }
